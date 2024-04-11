@@ -1,0 +1,38 @@
+{
+  "name": "onet-ts-helper",
+  "version": "1.0.0",
+  "description": "Helper class for ONet API",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "tslib": "^2.6.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "typescript": "~5.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardMcQuiston01/onet-ts-helper.git"
+  },
+  "keywords": [
+    "onet",
+    "typescript",
+    "ts",
+    "rest",
+    "api"
+  ],
+  "author": "Richard McQuiston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardMcQuiston01/onet-ts-helper/issues"
+  },
+  "homepage": "https://github.com/RichardMcQuiston01/onet-ts-helper#readme"
+}

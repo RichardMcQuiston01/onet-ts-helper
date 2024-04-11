@@ -1,0 +1,15 @@
+.idea
+.vscode
+
+/node_modules
+/dist
+
+*.log
+*.zip
+*.rar
+*.7z
+
+*.exe
+*.bat
+
+.env
