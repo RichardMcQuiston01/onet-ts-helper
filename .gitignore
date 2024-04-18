@@ -13,3 +13,4 @@
 *.bat
 
 .env
+env.yml
